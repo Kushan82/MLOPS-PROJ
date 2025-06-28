@@ -1,0 +1,18 @@
+pandas
+mlflow==2.2.2
+scikit-learn
+numpy
+matplotlib
+seaborn
+requests
+tqdm
+pydantic
+flask
+flask-cors
+joblib
+ensure==1.0.2
+pyYAML
+python-box==6.0.2
+notebook
+ipykernel
+-e .
