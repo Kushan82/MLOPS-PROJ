@@ -1,0 +1,9 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_url: https://github.com/Kushan82/datasets-and-resources/raw/refs/heads/main/diabetes.zip
+  local_data_file: artifacts/data_ingestion/diabetes.zip
+  unzip_dir: artifacts/data_ingestion
+  
