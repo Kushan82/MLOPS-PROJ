@@ -1,5 +1,5 @@
-from src.my_project import logger
-from src.my_project.pipeline.stage_1_data_ingestion import DataIngestionTrainingPipeline
+from src.myproject import logger
+from src.myproject.pipeline.stage_1_data_ingestion import DataIngestionTrainingPipeline
 
 STAGE_NAME = "Data Ingestion Stage"
 

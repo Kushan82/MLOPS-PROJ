@@ -7,7 +7,7 @@ from typing import Any
 from pathlib import Path
 from box import ConfigBox
 from ensure import ensure_annotations
-from my_project import logger
+from src.myproject import logger
 @ensure_annotations
 def read_yaml(path_to_yaml: Path) -> ConfigBox:
     try:
